@@ -1,3 +1,4 @@
+let i;
 function mapToNegativize(sourceArray){
   let arrays =[]
   arrays = sourceArray.map(x=>x*-1);
